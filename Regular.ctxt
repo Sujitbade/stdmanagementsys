@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Regular
+comment0.text=Regular\ class\ is\ the\ child\ class\ which\ extends\ \r\nthe\ parent\ class\ Student\ using\ the\ concept\ of\ Inheritance
+comment1.params=enrollmentID\ dateOfBirth\ courseName\ studentName\ dateOfEnrollment\ tutionFee\ courseDuration\ daysPresent\ numOfCreditHours\ numOfModules
+comment1.target=Regular(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ int,\ int)
+comment2.params=
+comment2.target=int\ getnumOfModules()
+comment3.params=
+comment3.target=int\ getnumOfCreditHours()
+comment4.params=
+comment4.target=double\ getdaysPresent()
+comment5.params=
+comment5.target=boolean\ getisGrantedScholarship()
+comment6.params=daysPresent
+comment6.target=void\ presentPercentage(double)
+comment6.text=Creating\ a\ method\ named\ presentPercentage\ which\ calculates\ present\ percentage\r\n\ and\ returns\ the\ attendance\ grade\ accordingly.\r\n
+comment7.params=courseName\ enrollmentID\ dateOfEnrollment
+comment7.target=void\ grantCertificate(java.lang.String,\ int,\ java.lang.String)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
